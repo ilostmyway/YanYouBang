@@ -1,0 +1,32 @@
+{
+  "navigationBarTitleText": "首页",
+  "backgroundColorTop": "#ebebeb",
+  "backgroundColorBottom": "#ebebeb",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "中心",
+        "fontSize": "16",
+        "float": "left",
+        "color": "#fff"
+      },
+      {
+        "text": "上传",
+        "fontSize": "16",
+        "float": "right",
+        "color": "#fff"
+      }
+    ],
+    "searchInput": {
+      "align": "center",
+      "placeholder": "输入搜索关键词",
+      "borderRadius": "50upx",
+      "backgroundColor": "#fff"
+    }
+  },
+  "usingComponents": {
+    "you-scroll": "/components/you-scroll",
+    "index-swiper": "/components/lunbo/lunbo"
+  }
+}

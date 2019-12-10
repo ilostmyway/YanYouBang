@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"demo{ background-color: #4CD964; width: ",[0,750],"; height: ",[0,750],"; }\n",],undefined,{path:"./pages/start/start.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/start/start.wxml') } }));

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "index-swiper": "/components/lunbo/lunbo",
+    "you-scroll": "/components/you-scroll"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "backgroundColorTop": "#ebebeb",
+  "backgroundColorBottom": "#ebebeb",
+  "usingComponents": {
+    "you-scroll": "/components/you-scroll",
+    "index-swiper": "/components/lunbo/lunbo"
+  }
+}

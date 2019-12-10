@@ -1,0 +1,17 @@
+
+.demo{
+	width: 750rpx;
+	height: 100%;
+	-webkit-box-pack:center;
+	-webkit-justify-content:center;
+	    -ms-flex-pack:center;
+	        justify-content:center;
+}
+.demo image{
+	position: absolute;
+	margin-top: 550rpx;
+	margin-left: 270rpx;
+	width: 255rpx;
+	height: 255rpx;
+}
+
